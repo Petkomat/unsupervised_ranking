@@ -19,9 +19,7 @@ scores_1 = e_ranking_1.fit(x)
 or
 
 ```
-e_ranking_2 = EnsembleRanking(
-        score=["Genie3", "RForest"], ensemble="ExtraTrees", ensemble_size=[2, 3]
-    )
+e_ranking_2 = EnsembleRanking(score=["Genie3", "RForest"], ensemble="ExtraTrees", ensemble_size=[2, 3])
 scores_2 = e_ranking_2.fit(x)
 ```
 
@@ -45,4 +43,7 @@ The code requires
 - Python 3.6 or higher, together with `numpy` and `scipy`,
 - Java 1.8 (because internally, Clus.jar is used).
 
+## Licence
+
+TO DO
 
