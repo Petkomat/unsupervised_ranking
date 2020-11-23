@@ -43,7 +43,7 @@ The code requires
 - Python 3.6 or higher, together with `numpy` and `scipy`,
 - Java 1.8 (because internally, Clus.jar is used).
 
-## Licence
+## License
 
 TO DO
 
