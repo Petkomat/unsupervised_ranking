@@ -27,10 +27,10 @@ if we want to explicitly set the parameters. Similarly for URelief rankings:
 
 ```
 relief_1 = URelief()
-scores_1 =relief_1.fit(x)
+scores_1 = relief_1.fit(x)
 
 relief_2 = URelief(iterations=[0.25, 0.9, 1.0], neighbours=[10, 15, 2000])
-scores_2 =relief_2.fit(x)
+scores_2 = relief_2.fit(x)
 ```
 
 For more examples, see `src/example.py`
