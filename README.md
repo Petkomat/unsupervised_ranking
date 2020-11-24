@@ -1,4 +1,4 @@
-# Enseble- and Distance-based Feature Ranking and Selection for Unsupervised Learning
+# Ensemble- and Distance-based Feature Ranking and Selection for Unsupervised Learning
 
 This repository contains the code for unsupervised feature ranking. We implement two approaches:
 
