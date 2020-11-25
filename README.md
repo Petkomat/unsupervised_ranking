@@ -45,5 +45,16 @@ The code requires
 
 ## License
 
-The code is under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) licence.
+The code is under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) licence. In brief, this means you can use the code for noncomercial purposes, provided you give us some greatly appreciated credit by citing [our paper](https://arxiv.org/abs/2011.11679) with bibtex
+
+```
+@misc{petkovic2020,
+      title={Ensemble- and Distance-Based Feature Ranking for Unsupervised Learning}, 
+      author={Matej Petkovi\{c} and Dragi Kocev and Bla\v{z} \v{S}krlj and Sa\v{s}o D\v{z}eroski},
+      year={2020},
+      eprint={2011.11679},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
