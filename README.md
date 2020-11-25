@@ -43,7 +43,7 @@ The code requires
 - Python 3.6 or higher, together with `numpy` and `scipy`,
 - Java 1.8 (because internally, Clus.jar is used).
 
-## License
+## License and citation
 
 The code is under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) licence. In brief, this means you can use the code for noncomercial purposes, provided you give us some greatly appreciated credit by citing [our paper](https://arxiv.org/abs/2011.11679) with bibtex
 
