@@ -45,16 +45,24 @@ The code requires
 
 ## License and citation
 
-The code is under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) licence. In brief, this means you can use the code for noncomercial purposes, provided you give us some greatly appreciated credit by citing [our paper](https://arxiv.org/abs/2011.11679) with bibtex
+The code is under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) licence. In brief, this means you can use the code for noncomercial purposes, provided you give us some greatly appreciated credit by citing 
+
+[Petković, M, Kocev, D, Škrlj, B, Džeroski, S. Ensemble‐ and distance‐based feature ranking for unsupervised learning. Int J Intell Syst. 2021; 1– 19. https://doi.org/10.1002/int.22390](https://doi.org/10.1002/int.22390)
+
+with bibtex
 
 ```
-@misc{petkovic2020,
+@misc{petkovic2021,
       title={Ensemble- and Distance-Based Feature Ranking for Unsupervised Learning}, 
       author={Matej Petkovi\{c} and Dragi Kocev and Bla\v{z} \v{S}krlj and Sa\v{s}o D\v{z}eroski},
-      year={2020},
-      eprint={2011.11679},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      journal = {International Journal of Intelligent Systems},
+      volume = {n/a},
+      number = {n/a},
+      pages = {1--19},
+      keywords = {extra trees, feature ranking, relief, tree ensembles, unsupervised learning},
+      doi = {https://doi.org/10.1002/int.22390},
+      url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22390},
+      eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.22390},
 }
 ```
 
